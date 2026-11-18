@@ -1,4 +1,4 @@
-# Student-Consultation-Booking-System
+# Student_Consultation_Booking_System
 
 **Team Name:** TEAM ORBIT  
 **Course:** STIWK2014 Software Engineering (Group A) – Session A252  
@@ -10,6 +10,6 @@ A web-based **Student Consultation Booking System** designed to eliminate schedu
 ## Group Members
 | No. | Name | Matric No. | GitHub Username |
 | :--- | :--- | :--- | :--- |
-| 1 | Nurul Nadeea Binti Salleh Karim | 309613 | `@[username]` |
-| 2 | Muhammad Altamis Zafri Bin Ismarizal | 309706 | `@[username]` |
-| 3 | Tanushri Lachumanan | 298455 | `@[username]` |
+| 1 | Nurul Nadeea Binti Salleh Karim (Student C) | 309613 | @[anbananadd] |
+| 2 | Muhammad Altamis Zafri Bin Ismarizal (Student B) | 309706 | @[altamizaf] |
+| 3 | Tanushri Lachumanan | 298455 (Student A) | @[tanushri2603] |
